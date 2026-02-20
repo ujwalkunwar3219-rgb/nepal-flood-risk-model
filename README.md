@@ -1,2 +1,3 @@
 # nepal-flood-risk-model
+Floods in Nepal are annual, high-impact disasters primarily caused by intense monsoon rains (June-September) falling on steep, fragile terrain, often leading to combined flood and landslide events. The combination of over 6,000 rivers, heavy downpours, deforestation, and weak infrastructure results in widespread loss of life, destroyed infrastructure, and significant economic damage, particularly in the Tarai plains and river basins.
 This program mainly focuses on flood prediction and helps counter it before it causes drastic effects. I wish to help reduce damage before it is done.  
